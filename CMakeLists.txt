@@ -3,4 +3,4 @@ project(CPPSelfStudy)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(CPPSelfStudy sec09_OOP/1_OOP_and_Class.cpp)
+add_executable(CPPSelfStudy sec09_OOP/2_Encapsulation_AccessSpecifiers_AccessFunctions.cpp)

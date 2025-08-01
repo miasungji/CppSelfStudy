@@ -49,8 +49,8 @@ cmake_ninja_workdir = /Users/mia/CppSelfStudy/cmake-build-debug/
 
 build cmake_object_order_depends_target_CPPSelfStudy: phony || .
 
-build CMakeFiles/CPPSelfStudy.dir/sec09_OOP/1_OOP_and_Class.cpp.o: CXX_COMPILER__CPPSelfStudy_unscanned_Debug /Users/mia/CppSelfStudy/sec09_OOP/1_OOP_and_Class.cpp || cmake_object_order_depends_target_CPPSelfStudy
-  DEP_FILE = CMakeFiles/CPPSelfStudy.dir/sec09_OOP/1_OOP_and_Class.cpp.o.d
+build CMakeFiles/CPPSelfStudy.dir/sec09_OOP/2_Encapsulation_AccessSpecifiers_AccessFunctions.cpp.o: CXX_COMPILER__CPPSelfStudy_unscanned_Debug /Users/mia/CppSelfStudy/sec09_OOP/2_Encapsulation_AccessSpecifiers_AccessFunctions.cpp || cmake_object_order_depends_target_CPPSelfStudy
+  DEP_FILE = CMakeFiles/CPPSelfStudy.dir/sec09_OOP/2_Encapsulation_AccessSpecifiers_AccessFunctions.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/CPPSelfStudy.dir
   OBJECT_FILE_DIR = CMakeFiles/CPPSelfStudy.dir/sec09_OOP
@@ -63,7 +63,7 @@ build CMakeFiles/CPPSelfStudy.dir/sec09_OOP/1_OOP_and_Class.cpp.o: CXX_COMPILER_
 #############################################
 # Link the executable CPPSelfStudy
 
-build CPPSelfStudy: CXX_EXECUTABLE_LINKER__CPPSelfStudy_Debug CMakeFiles/CPPSelfStudy.dir/sec09_OOP/1_OOP_and_Class.cpp.o
+build CPPSelfStudy: CXX_EXECUTABLE_LINKER__CPPSelfStudy_Debug CMakeFiles/CPPSelfStudy.dir/sec09_OOP/2_Encapsulation_AccessSpecifiers_AccessFunctions.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/CPPSelfStudy.dir
   POST_BUILD = :
