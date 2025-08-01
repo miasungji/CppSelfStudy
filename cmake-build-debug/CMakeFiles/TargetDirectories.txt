@@ -1,0 +1,3 @@
+/Users/mia/CppSelfStudy/cmake-build-debug/CMakeFiles/CPPSelfStudy.dir
+/Users/mia/CppSelfStudy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mia/CppSelfStudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
